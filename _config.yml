@@ -3,8 +3,12 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
-markdown: redcarpet
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 #highlighter: rouge
 
 # Themes are encouraged to use these universal variables 
@@ -89,7 +93,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : https-boldowa-github-io
     livefyre :
       site_id : 123
     intensedebate :
