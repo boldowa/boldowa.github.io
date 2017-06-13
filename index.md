@@ -1,36 +1,28 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Junk Warehouse
+tagline: とっぷぺーじ
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<div style="float: right; text-align: right;">
+  <a href="rss.xml" title="あーるえすえす ふぃーど">RSS Feed</a> | <a href="rss.xml" title="えーてぃーおーえむ ふぃーど">Atom Feed</a>
+</div>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+ローテクPGの役に立たないあぷりけぃしょんや、なぐりがきのぺーじです。
 
-## Update Author Attributes
+## せいさくぶつ
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+### [SuperC-SPCdrv](http://github.com/boldowa/SuperC-SPCdrv)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+SPCドライバ / 専用MMLコンパイラ
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+### [Various-Script700](http://github.com/boldowa/Various-Script700)
 
-    $ rm -rf _posts/core-samples
+実験的に作ったscript700のライブラリ
 
-Here's a sample "posts list".
+
+## うぇぶろぐ
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +30,17 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## そぉしゃる あかうんと
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+- [ついったぁ](http://twitter.com/{{site.author.twitter}})
+- [ぎっとはぶ](https://github.com/{{site.author.github}})
 
+
+## むかしのぺーじ
+
+### [備考録なんです？](http://d.hatena.jp/boldowa/)
+
+はてなのダイアリー
+
+FLMML使えたからはてダ選んだけど、全然使ってませんでした。
 
