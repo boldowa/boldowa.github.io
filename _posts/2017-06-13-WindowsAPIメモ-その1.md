@@ -2,6 +2,7 @@
 layout: post
 category : WindowsAPI
 tags : [WindowsAPI, CreateProcess, C言語]
+comments: true
 ---
 {% include JB/setup %}
 
