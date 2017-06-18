@@ -38,7 +38,7 @@ SPCドライバ / 専用MMLコンパイラ
 
 ## むかしのぺーじ
 
-### [備考録なんです？](http://d.hatena.jp/boldowa/)
+### [備考録なんです？](http://d.hatena.ne.jp/boldowa/)
 
 はてなのダイアリー
 
