@@ -2,7 +2,7 @@
 layout: post
 title: "スクリプト言語 Python(3)"
 category: "Python"
-tags: [Python, Args]
+tags: [Python, Web, Tornado]
 comments: true
 ---
 {% include JB/setup %}
