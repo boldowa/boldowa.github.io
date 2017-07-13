@@ -17,6 +17,10 @@ tagline: とっぷぺーじ
 
 SPCドライバ / 専用MMLコンパイラ
 
+### [Sdachi](http://github.com/boldowa/sdachi)
+
+ルーチン指向SNES ROM逆アセンブラ
+
 ### [Various-Script700](http://github.com/boldowa/Various-Script700)
 
 実験的に作ったscript700のライブラリ
