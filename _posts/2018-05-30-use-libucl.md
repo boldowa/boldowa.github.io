@@ -167,7 +167,7 @@ libuclの使い方のキホンは分かったので、これからどんどん�
 
 ## 関連記事
 
-- [UCL(Universal Config Language)ファイルについて](2018-05-27-ucl)
+- [UCL(Universal Config Language)ファイルについて](../27/ucl)
 
 ## 参考リンク
 
