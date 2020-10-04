@@ -36,7 +36,7 @@ SPCドライバ / 専用MMLコンパイラ
 
 ## そぉしゃる あかうんと
 
-- [ついったぁ](http://twitter.com/{{site.author.twitter}})
+- [ついったぁ](http://twitter.com/{{site.author.twitter}}) すきかってやってます
 - [ぎっとはぶ](https://github.com/{{site.author.github}})
 
 
